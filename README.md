@@ -1,6 +1,6 @@
 ## A Music Search App
 
-Live link - [Demo](https://shehbazjafri.github.io/music-search)
+![](src/search.gif)
 
 ## Available Scripts
 
