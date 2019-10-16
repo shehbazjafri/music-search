@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## A Music Search App
+
+Live link - [Demo](shehbazjafri.github.io/music-search)
 
 ## Available Scripts
 
