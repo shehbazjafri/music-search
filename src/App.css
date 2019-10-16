@@ -1,22 +1,32 @@
 .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  background: #172733;
   color: white;
+  min-height: 100vh;
 }
 
-.App-link {
-  color: #09d3ac;
+.search-box :first-child {
+  display: flex;
+  flex-direction: row;
+  width: 30vw;
+  margin: auto;
+}
+
+.search-button {
+  background: white;
+  border: 0;
+  padding: 5px;
+  margin: 5px;
+}
+
+.results {
+  display: grid;
+  justify-content: center;
+}
+
+.track {
+  display: flex;
+  gap: 10px;
+  width: 50vw;
+  border: 2px solid white;
+  margin: 5px;
 }
